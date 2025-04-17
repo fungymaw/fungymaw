@@ -27,9 +27,8 @@ I'm **Fungai Mawire**, a passionate data analyst who loves turning data into mea
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/) <!-- www.linkedin.com/in/fungai-mawire-7b0282150 -->
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin/) <!--www.linkedin.com/in/fungai-mawire-7b0282150-->
 - 📧 [efmawire@gmail.com](mailto:efmawire@gmail.com)
 
 ---
-
 -->
