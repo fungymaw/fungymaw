@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Fungai Mawire, a Graduate Data Science student at Pace, passionate about data anlaytics, creating visuals that impact decison making
 <!--
 **fungymaw/fungymaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
