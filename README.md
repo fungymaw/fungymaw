@@ -1,9 +1,13 @@
 ## Hi there 👋
-I am Fungai Mawire, a Graduate Data Science student at Pace, passionate about data anlaytics, creating visuals that impact decison making
+I am passionate about data anlaysis, creating meaningful visuals that impact decison making.  
 <!--
 **fungymaw/fungymaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills set
+Pyhton
+SQL
+Database Management
+Excel
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
