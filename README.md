@@ -22,6 +22,17 @@ I'm **Fungai Mawire**, a passionate data analyst who loves turning data into mea
 ---
 
 ## 📈 GitHub Stats
+# Hi, I'm Fungai Mawire 👋
+
+## 💻 GitHub Stats
+![Fungai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fungymaw&show_icons=true&hide=prs&count_private=true&include_all_commits=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fungymaw&layout=compact&langs_count=5&theme=tokyonight)
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fungai-mawire-7b0282150)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fungymaw)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:efmawire@gmail.com)  
+
 <!-- GitHub Stats Card -->
 ![Fungai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fungymaw&show_icons=true&hide=prs&count_private=true&include_all_commits=true&theme=tokyonight)
 
