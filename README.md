@@ -15,6 +15,9 @@ I'm **Fungai Mawire**, a passionate data analyst who loves turning data into mea
 ![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/MICROSOFT%20EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/MACHINE%20LEARNING-102230?style=for-the-badge&logo=mlflow&logoColor=white)
+
+
 
 ---
 
