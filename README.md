@@ -22,9 +22,12 @@ I'm **Fungai Mawire**, a passionate data analyst who loves turning data into mea
 ---
 
 ## 📈 GitHub Stats
+<!-- GitHub Stats Card -->
+![Fungai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fungymaw&show_icons=true&hide=prs&count_private=true&include_all_commits=true&theme=tokyonight)
 
-![Fungai's GitHub stats](https://github-readme-stats.vercel.app/api?username=fungymaw&show_icons=true&hide_title=false&hide=prs&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fungymaw&layout=compact&theme=radical)
+<!-- Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fungymaw&layout=compact&langs_count=5&theme=tokyonight)
+
 
 ---
 
